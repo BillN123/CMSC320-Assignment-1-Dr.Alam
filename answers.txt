@@ -4,6 +4,10 @@ Answer: [easier to use to work in groups]
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: [bioTech where you are dealing with large amount of paitent data it could help if you know to sort certain 
-and look up in big database]
+Answer: [bioTech where you are dealing with large amount of paitent data it could help 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: [I hope to improve my pandas skills]
+
 
