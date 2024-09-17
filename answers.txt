@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: [bioTech where you are dealing with large amount of paitent data it could help if you know to sort certain 
+and look up in big database]
