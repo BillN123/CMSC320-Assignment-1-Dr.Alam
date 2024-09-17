@@ -11,3 +11,8 @@ Q4: What skills do you hope to improve during this course?
 Answer: [I hope to improve my pandas skills]
 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: [merging is just combing two branches and rebasing is making all the new changes from one branch applied to the other one]
+
